@@ -62,3 +62,7 @@ Built with TypeScript, Vite, Vitest, and Playwright. The game runs locally in th
 ## Fan project
 
 Pokémon Verdant is an unofficial fan project and is not affiliated with or endorsed by Nintendo, Game Freak, Creatures, or The Pokémon Company. Pokémon names, characters, and trademarks belong to their respective owners. The illustrations and interface in this repository were created for this project; no official game sprites or audio are bundled. The repository’s code license is provided in [LICENSE](LICENSE).
+
+## Play online
+
+[Play the hosted game](https://intrepion.github.io/kata-pokemon-clone-astra-6-ultra/)
