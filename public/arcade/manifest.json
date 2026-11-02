@@ -1,6 +1,69 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "gameId": "kata-pokemon-clone-astra-6-ultra",
   "playUrl": "https://intrepion.github.io/kata-pokemon-clone-astra-6-ultra/",
-  "screenshots": []
+  "screenshots": [
+    {
+      "path": "arcade/screenshots/ci-20261102-01.jpg",
+      "sha256": "14953b1e0ce17c967f3bfeacc5d173c59a6c0afae8e03b39568157df03adbc41",
+      "alt": "Pok\u00e9mon Verdant gameplay, view 1",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-01.png",
+        "sourceSha256": "827286232a4c75d1a0098bc8a19e2ec06e8f7470864d53250112cce9942e392f",
+        "captureCommit": "28643f6cf39e64ba4a23ce071b31a16d785c9f1a",
+        "workflowRunId": "41424765542",
+        "inputHashes": {
+          "index.html": "e58ebeb3fff004e58fb8c2eafe8f3c9fa8922ebb19ccb2def025ad4088954f6e",
+          "trainer.svg": "8752342d0f419fda457b9b48a305f3202d96fe7d04d1211412fa4abaa20b4486",
+          "favicon.svg": "fd739a4931ddb7f85213e9084fe5294ce6509acde9dc42e0789d5ed71f7e18a1",
+          "pokemon/bulbasaur.svg": "9223787f7e129654d31807dec27044f4d3c559c594928dd702b92b95c0b38725",
+          "pokemon/caterpie.svg": "2bd0217ee277dcbb371f951e8a84407d394699b93c9e48782011bcd850968932",
+          "pokemon/charmander.svg": "2af903742499a7db568045132b6f64c726b76b52166a8d1b6c39f6fc7e8d148f",
+          "pokemon/eevee.svg": "d4f842e1fd595479cbc00ea00ccc973520cc7378f9588d3fb09c6bb5eba93512",
+          "pokemon/oddish.svg": "ca1ec1e351c50b47629ab9701691b55a91ea56a2ea0be47c22f293570d320bdc",
+          "pokemon/pidgey.svg": "0c5a5d0c2cbfb4bd3e93216f558ab0ae58a21571bca4a4e71fda412eea292df5",
+          "pokemon/pikachu.svg": "6e95b1408796164d27438b6d163b97fdff2e9a506564b5c5a4efccf1a4f4352d",
+          "pokemon/rattata.svg": "1d5b79331efc4a016fd740c2cd8f8fa9c8e5ef9e5793690ff7aa17ec6b965e2b",
+          "pokemon/squirtle.svg": "1b2d40724776d8c627b4c91c406a349ec3a9330c32f831f9a58b4d826893b662",
+          "assets/index-C02S_Ddz.css": "74652c0c266ae917722edeac1e460bf9980c87b4aa7aeb9bdbef67f1530ea685",
+          "assets/index-Cv2ftel1.js": "e7575fef205be8cf7578aa77ec1db9c9d901c4b2ab9975b815d072125a35c6b9"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "98ca1776508d998b77d4edf648e56db56dbdb86dba35fb2dd6d82c074748824c"
+      }
+    },
+    {
+      "path": "arcade/screenshots/ci-20261102-02.jpg",
+      "sha256": "0cadf51fbf6bc04b2990388fbe7a9dba3f1ffb806eb6b278c07fd128c3e87e4e",
+      "alt": "Pok\u00e9mon Verdant gameplay, view 2",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-02.png",
+        "sourceSha256": "17a1ee23c3e56952f6a424d8c4a9467f168bc92ae5d13ba4b4350203e7f95771",
+        "captureCommit": "28643f6cf39e64ba4a23ce071b31a16d785c9f1a",
+        "workflowRunId": "41424765542",
+        "inputHashes": {
+          "index.html": "e58ebeb3fff004e58fb8c2eafe8f3c9fa8922ebb19ccb2def025ad4088954f6e",
+          "trainer.svg": "8752342d0f419fda457b9b48a305f3202d96fe7d04d1211412fa4abaa20b4486",
+          "favicon.svg": "fd739a4931ddb7f85213e9084fe5294ce6509acde9dc42e0789d5ed71f7e18a1",
+          "pokemon/bulbasaur.svg": "9223787f7e129654d31807dec27044f4d3c559c594928dd702b92b95c0b38725",
+          "pokemon/caterpie.svg": "2bd0217ee277dcbb371f951e8a84407d394699b93c9e48782011bcd850968932",
+          "pokemon/charmander.svg": "2af903742499a7db568045132b6f64c726b76b52166a8d1b6c39f6fc7e8d148f",
+          "pokemon/eevee.svg": "d4f842e1fd595479cbc00ea00ccc973520cc7378f9588d3fb09c6bb5eba93512",
+          "pokemon/oddish.svg": "ca1ec1e351c50b47629ab9701691b55a91ea56a2ea0be47c22f293570d320bdc",
+          "pokemon/pidgey.svg": "0c5a5d0c2cbfb4bd3e93216f558ab0ae58a21571bca4a4e71fda412eea292df5",
+          "pokemon/pikachu.svg": "6e95b1408796164d27438b6d163b97fdff2e9a506564b5c5a4efccf1a4f4352d",
+          "pokemon/rattata.svg": "1d5b79331efc4a016fd740c2cd8f8fa9c8e5ef9e5793690ff7aa17ec6b965e2b",
+          "pokemon/squirtle.svg": "1b2d40724776d8c627b4c91c406a349ec3a9330c32f831f9a58b4d826893b662",
+          "assets/index-C02S_Ddz.css": "74652c0c266ae917722edeac1e460bf9980c87b4aa7aeb9bdbef67f1530ea685",
+          "assets/index-Cv2ftel1.js": "e7575fef205be8cf7578aa77ec1db9c9d901c4b2ab9975b815d072125a35c6b9"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "98ca1776508d998b77d4edf648e56db56dbdb86dba35fb2dd6d82c074748824c"
+      }
+    }
+  ]
 }

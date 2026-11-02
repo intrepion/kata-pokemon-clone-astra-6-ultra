@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "workflowCommit": "e1b2240055f4e53f1dc068114bdcc840d34dd240",
+  "sourceCommit": "28643f6cf39e64ba4a23ce071b31a16d785c9f1a",
+  "runId": "41424765542",
+  "url": "http://127.0.0.1:4261/",
+  "inputs": {
+    "index.html": "e58ebeb3fff004e58fb8c2eafe8f3c9fa8922ebb19ccb2def025ad4088954f6e",
+    "trainer.svg": "8752342d0f419fda457b9b48a305f3202d96fe7d04d1211412fa4abaa20b4486",
+    "favicon.svg": "fd739a4931ddb7f85213e9084fe5294ce6509acde9dc42e0789d5ed71f7e18a1",
+    "pokemon/bulbasaur.svg": "9223787f7e129654d31807dec27044f4d3c559c594928dd702b92b95c0b38725",
+    "pokemon/caterpie.svg": "2bd0217ee277dcbb371f951e8a84407d394699b93c9e48782011bcd850968932",
+    "pokemon/charmander.svg": "2af903742499a7db568045132b6f64c726b76b52166a8d1b6c39f6fc7e8d148f",
+    "pokemon/eevee.svg": "d4f842e1fd595479cbc00ea00ccc973520cc7378f9588d3fb09c6bb5eba93512",
+    "pokemon/oddish.svg": "ca1ec1e351c50b47629ab9701691b55a91ea56a2ea0be47c22f293570d320bdc",
+    "pokemon/pidgey.svg": "0c5a5d0c2cbfb4bd3e93216f558ab0ae58a21571bca4a4e71fda412eea292df5",
+    "pokemon/pikachu.svg": "6e95b1408796164d27438b6d163b97fdff2e9a506564b5c5a4efccf1a4f4352d",
+    "pokemon/rattata.svg": "1d5b79331efc4a016fd740c2cd8f8fa9c8e5ef9e5793690ff7aa17ec6b965e2b",
+    "pokemon/squirtle.svg": "1b2d40724776d8c627b4c91c406a349ec3a9330c32f831f9a58b4d826893b662",
+    "assets/index-C02S_Ddz.css": "74652c0c266ae917722edeac1e460bf9980c87b4aa7aeb9bdbef67f1530ea685",
+    "assets/index-Cv2ftel1.js": "e7575fef205be8cf7578aa77ec1db9c9d901c4b2ab9975b815d072125a35c6b9"
+  },
+  "browser": "153.0.8010.12",
+  "viewport": {
+    "width": 1280,
+    "height": 1000
+  },
+  "screenshots": [
+    "verdant-astra-01.png",
+    "verdant-astra-02.png"
+  ]
+}
